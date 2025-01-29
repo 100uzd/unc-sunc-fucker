@@ -1,4 +1,4 @@
-so basically its just fucking up the unc test lmao (good thing to troll ppl or smh)
+so basically its just fucking up the unc test lmao (cool thing to troll ppl or smh)
 
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/100uzd/unc-sunc-fucker/refs/heads/main/fucker.lua"))()
